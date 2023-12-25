@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Reading Recipe",
+    "description": "minimal recipe extraction",
+    "version": "1.0",
+    "action": {
+      "default_popup": "recipeExtension.html",
+      "default_icon": "images/recipe_icon.png"
+
+    }
+  }
